@@ -1,0 +1,297 @@
+"codtop";"deftop";"n"
+"1";"gcat";"Political/General News";576
+"2";"gpir";"Politics/International Relations";275
+"3";"gdip";"International Relations";164
+"4";"genv";"Natural Environment";147
+"5";"gpol";"Domestic Politics";140
+"6";"gglobe";"Global/World Issues";130
+"7";"ncat";"Content Types";121
+"8";"gclimt";"Climate Change";104
+"9";"ghea";"Health";103
+"10";"ccat";"Corporate/Industrial News";100
+"11";"gcom";"Society/Community";100
+"12";"nfact";"Factiva Filters";83
+"13";"gmed";"Medical Conditions";63
+"14";"gsoc";"Social Issues";57
+"15";"ecat";"Economic News";55
+"16";"gspox";"Infectious Diseases";55
+"17";"gcold";"Respiratory Tract Diseases";47
+"18";"gout";"Outbreaks/Epidemics";47
+"19";"gsars";"Novel Coronaviruses";47
+"20";"ghum";"Human Rights/Civil Liberties";46
+"21";"grisk";"Risk News";39
+"22";"gsust";"Sustainable Development/Sustainability";39
+"23";"gcom";"Society/Community/Work";33
+"24";"gedu";"Education";30
+"25";"gpov";"Poverty";30
+"26";"e11";"Economic Performance/Indicators";27
+"27";"genv";"Environmental News";26
+"28";"nfcpex";"C&E Executive News Filter";26
+"29";"gcrim";"Crime/Legal Action";25
+"30";"nanl";"Analyses";24
+"31";"gcns";"National/Public Security";22
+"32";"c315";"Conferences/Exhibitions";21
+"33";"gtrea";"Medical Treatments/Procedures";21
+"34";"nfcpin";"C&E Industry News Filter";21
+"35";"nfcpin";"FC&E Industry News Filter";20
+"36";"grel";"Religion";19
+"37";"gsci";"Sciences/Humanities";19
+"38";"gdis";"Disasters/Accidents";18
+"39";"gent";"Arts/Entertainment";18
+"40";"gimmu";"Immunizations";18
+"41";"guni";"University/College";18
+"42";"e51";"Trade/External Payments";17
+"43";"gvio";"Military Action";17
+"44";"ocat";"International Pol-Econ Organizations";17
+"45";"redit";"Selection of Top Stories/Trends/Analysis";17
+"46";"gsust";"Sustainable Development";16
+"47";"c13";"Regulation/Government Policy";15
+"48";"gdev";"Development/Humanitarian Aid";15
+"49";"gntdis";"Natural Disasters/Catastrophes";14
+"50";"gwori";"Gender Equality";14
+"51";"npress";"Press Releases";14
+"52";"c31";"Marketing";13
+"53";"gdcri";"Discrimination";13
+"54";"gimm";"Human Migration";13
+"55";"nfce";"C&E Exclusion Filter";13
+"56";"nitv";"Interviews";13
+"57";"e21";"Government Finance";12
+"58";"e512";"Physical Trade";12
+"59";"gfdsec";"Food/Drinking Water Security";12
+"60";"gplan";"Urban Planning/Development";12
+"61";"reqr";"Suggested Reading – Industry News";11
+"62";"cesg";"Environmental/Social/Governance";10
+"63";"gglblz";"Globalization";10
+"64";"glife";"Living/Lifestyle";10
+"65";"gwea";"Weather";10
+"66";"nrgn";"Routine General News";10
+"67";"cenvire";"Corporate Environmental Responsibility";9
+"68";"gqual";"Environmental Pollution";9
+"69";"nfcpex";"FC&E Executive News Filter";9
+"70";"cgymtr";"Intellectual Property Rights";8
+"71";"gbook";"Books";8
+"72";"gflood";"Floods/Tidal Waves";8
+"73";"gvbod";"Government Bodies";8
+"74";"cemis";"Emissions";7
+"75";"e1101";"Economic Growth";7
+"76";"e1101";"Economic Growth/Recession";7
+"77";"e212";"Government Borrowing";7
+"78";"gnatcn";"Environmental Protection";7
+"79";"greg";"Regional Politics";7
+"80";"gspo";"Sports";7
+"81";"c133";"Patents";6
+"82";"ccsr";"Corporate Social Responsibility";6
+"83";"cinprp";"Industrial Property Rights";6
+"84";"gracm";"Racism";6
+"85";"gvexe";"Executive Branch";6
+"86";"reqr";"Suggested Reading   Industry News";6
+"87";"e211";"Government Budget/Taxation";5
+"88";"gdef";"Armed Forces";5
+"89";"gfinc";"Financial Crime";5
+"90";"gfod";"Food/Drink";5
+"91";"ghiv";"AIDS/HIV";5
+"92";"ghnwi";"High Net Worth Individuals";5
+"93";"gimm";"Asylum/Immigration";5
+"94";"gsexd";"Sex Discrimination";5
+"95";"gstd";"Sexually Transmitted Diseases";5
+"96";"gtrade";"Tariffs/Trade Barriers";5
+"97";"gwori";"Women's Rights";5
+"98";"nanl";"Analysis";5
+"99";"nedc";"Commentaries/Opinions";5
+"100";"utdnat";"United Nations";5
+"101";"wto";"World Trade Organization";5
+"102";"c18";"Ownership Changes";4
+"103";"c183";"Privatizations/Nationalization";4
+"104";"cexpro";"Products/Services";4
+"105";"gairp";"Air Pollution";4
+"106";"gdroug";"Drought";4
+"107";"gesanc";"International Sanctions";4
+"108";"gfdsec";"Food Security";4
+"109";"gfraud";"Fraud";4
+"110";"gimm";"Migration";4
+"111";"gmurd";"Murder/Manslaughter";4
+"112";"gnutr";"Nutrition";4
+"113";"gsocc";"Soccer";4
+"114";"gvio";"Military Operations";4
+"115";"imf";"International Monetary Fund";4
+"116";"reqrmm";"Suggested Reading – Metals/Mining";4
+"117";"c12";"Corporate Crime/Legal Action";3
+"118";"c24";"Capacity/Facilities";3
+"119";"c341";"Government Aid/Grants";3
+"120";"c42";"Labor/Personnel Issues";3
+"121";"cactio";"Corporate Actions";3
+"122";"cprdop";"Facility Openings";3
+"123";"efairt";"Fair Trade";3
+"124";"gcens";"Censorship";3
+"125";"gcrim";"Crime/Courts";3
+"126";"gfamin";"Famine";3
+"127";"ggroup";"Demographic Health";3
+"128";"ghist";"History";3
+"129";"gmosq";"Vector-borne/Zoonotic Diseases";3
+"130";"gmovie";"Movies";3
+"131";"gmusic";"Music";3
+"132";"gntdis";"Natural Disasters";3
+"133";"gtrade";"Trade Barriers/Restrictions";3
+"134";"gvote";"Elections";3
+"135";"gwar";"War Crimes";3
+"136";"mcat";"Commodity/Financial Market News";3
+"137";"reqraf";"Suggested Reading – Agriculture/Forestry";3
+"138";"c132";"Standards/Standardization";2
+"139";"c21";"Output/Production";2
+"140";"c22";"New Products/Services";2
+"141";"c23";"Research/Development";2
+"142";"c41";"Management Issues";2
+"143";"c42";"Labor/Personnel";2
+"144";"ccawrd";"Corporate Awards";2
+"145";"ccptax";"Corporate Taxation";2
+"146";"cdom";"Markets/Marketing";2
+"147";"cwrkpa";"Workers Pay";2
+"148";"e1104";"Personal Income/Average Earnings";2
+"149";"e213";"Sub-National/Local Budget/Taxation";2
+"150";"eec";"European Union";2
+"151";"gabor";"Abortion";2
+"152";"gaffm";"Affirmative Action";2
+"153";"gart";"Art";2
+"154";"gbiol";"Biology";2
+"155";"gcele";"Celebrity News/Gossip";2
+"156";"gcha";"Charities/Philanthropy";2
+"157";"gcns";"National Security";2
+"158";"gcoseq";"Carbon Sequestration";2
+"159";"gdgdv";"Digital Divide";2
+"160";"genvcr";"Environmental Crime";2
+"161";"ggeo";"Geography/Geology";2
+"162";"glgbt";"LGBT Rights";2
+"163";"gment";"Mental Disorders";2
+"164";"gment";"Mental Health";2
+"165";"gnrsca";"Natural Resource Scarcity";2
+"166";"gpapp";"Political Appointments/Terminations";2
+"167";"gpersf";"Personal Finance";2
+"168";"gplpol";"Plastic Pollution";2
+"169";"grefu";"Refugees/Asylum Seekers";2
+"170";"gscho";"School";2
+"171";"gspy";"Espionage";2
+"172";"gterr";"Terrorism";2
+"173";"gteva";"Tax Fraud";2
+"174";"gweb";"Social Media";2
+"175";"gwhea";"Women's Health";2
+"176";"memiss";"Emission Markets";2
+"177";"nedc";"Commentary/Opinion";2
+"178";"niwe";"IWE Filter";2
+"179";"reqrch";"Suggested Reading   Chemicals";2
+"180";"reqrph";"Suggested Reading – Pharmaceuticals";2
+"181";"unsc";"UN Security Council";2
+"182";"wldbk";"World Bank";2
+"183";"13";"Regulation/Government Policy";1
+"184";"afdvbk";"African Development Bank";1
+"185";"apec";"Asia-Pacific Economic Cooperation";1
+"186";"c11";"Plans/Strategy";1
+"187";"c15";"Financial Performance";1
+"188";"c15";"Performance";1
+"189";"c151";"Earnings";1
+"190";"c16";"Bankruptcy";1
+"191";"c17";"Funding/Capital";1
+"192";"c26";"Product/Consumer Safety";1
+"193";"c312";"Corporate/Industry Exports";1
+"194";"c312";"External Markets";1
+"195";"c33";"Contracts/Orders";1
+"196";"c333";"Non-Government Contracts/Orders";1
+"197";"c34";"Anti-Competition Issues";1
+"198";"c34";"Competition Issues";1
+"199";"c341";"Government Aid";1
+"200";"c411";"Management Moves";1
+"201";"ccfd";"Corporate Financial Difficulty";1
+"202";"ccpint";"Competitive Intelligence";1
+"203";"ciprof";"Industry Profiles";1
+"204";"coutsc";"Outsourcing";1
+"205";"cpartn";"Partnerships/Collaborations";1
+"206";"cpshrt";"Product Shortage";1
+"207";"cscm";"Supply Chain";1
+"208";"cslmc";"Senior Level Management";1
+"209";"cwkdis";"Workplace Discrimination";1
+"210";"e1108";"Budget Account";1
+"211";"e12";"Monetary Policy";1
+"212";"e1202";"Interest Rates";1
+"213";"ecowas";"Economic Community of W. African States";1
+"214";"fao";"Food and Agriculture Organization";1
+"215";"gaiml";"Artificial Intelligence/Machine Learning";1
+"216";"gantpy";"Anthropology";1
+"217";"garchi";"Architecture";1
+"218";"garlgy";"Archaeology";1
+"219";"gaward";"Awards";1
+"220";"gbirtc";"Family Planning";1
+"221";"gcancr";"Cancer";1
+"222";"gchlab";"Child Abuse";1
+"223";"gchlra";"Infectious Foodborne/Waterborne Diseases";1
+"224";"gchris";"Christianity";1
+"225";"gciv";"Community/Civic Groups";1
+"226";"gcltre";"Cultural Heritage";1
+"227";"gcoho";"Generational Cohorts";1
+"228";"gcorrp";"Corruption";1
+"229";"gcount";"Counterfeit/Forgery";1
+"230";"gcoup";"Armed Rebellion";1
+"231";"gcsci";"Computer Science";1
+"232";"gdomv";"Domestic Violence";1
+"233";"gdtcsh";"Money Laundering";1
+"234";"gearth";"Geological Disasters";1
+"235";"geight";"Group of Eight";1
+"236";"gestat";"Estate Planning";1
+"237";"gethic";"Ethical Issues";1
+"238";"gethm";"Ethnic Minorities";1
+"239";"gforst";"Deforestation";1
+"240";"ggaym";"Same-Sex/Gay Marriage";1
+"241";"ghonl";"Honours List/Decorations";1
+"242";"ghurr";"Storms";1
+"243";"ghutrk";"Human Trafficking";1
+"244";"gihea";"Infant/Child/Teenage Health";1
+"245";"gillim";"Illegal Immigration";1
+"246";"gjob";"General Labor Issues";1
+"247";"gland";"Land Use";1
+"248";"glit";"Literacy/Illiteracy";1
+"249";"gmala";"Malaria";1
+"250";"gmala";"Mosquito-borne Diseases";1
+"251";"gnonfi";"Non-fiction Books (Discontinued from 12th January 2016)";1
+"252";"gobes";"Obesity";1
+"253";"goly";"Olympics";1
+"254";"gpersi";"Personal Investments";1
+"255";"gplan";"Urban/Rural Planning";1
+"256";"gpol";"Domestic Politic";1
+"257";"gponz";"Ponzi/Pyramid Scheme";1
+"258";"gpsyl";"Psychology";1
+"259";"grape";"Sex Crimes";1
+"260";"grape";"Sexual Assault/Rape";1
+"261";"grugu";"Rugby Union";1
+"262";"gsci";"Sciences/Technologies";1
+"263";"gsec";"State Security Measures/Policies";1
+"264";"gsexu";"Sexuality";1
+"265";"gsfra";"Securities Fraud";1
+"266";"gspo";"Sports/Recreation";1
+"267";"gstres";"Stress-related Conditions";1
+"268";"gsuic";"Suicide";1
+"269";"gtfin";"Terrorism Financing";1
+"270";"gtraff";"Trafficking/Smuggling";1
+"271";"gtrans";"Transport";1
+"272";"gtub";"Tuberculosis";1
+"273";"gtvrad";"Television/Radio";1
+"274";"gvbod";"Government Bodies (Discontinued from 10th January 2023)";1
+"275";"gvcng";"Legislative Branch";1
+"276";"gvexe";"Executive Branch (Discontinued from 10th January 2023)";1
+"277";"gvsup";"Judicial Branch";1
+"278";"memiss";"Emission Market";1
+"279";"ncont";"Contest/Lottery Announcements";1
+"280";"nedi";"Editorials";1
+"281";"nfce";"FC&E Exclusion Filter";1
+"282";"niex";"Interviews with Corporate Executives";1
+"283";"nitv";"Interview";1
+"284";"nnam";"News Agency Materials";1
+"285";"nobt";"Obituaries";1
+"286";"npeo";"People Profile";1
+"287";"reqevr";"Suggested Reading   Environment/Waste Management";1
+"288";"reqevr";"Suggested Reading – Environment/Waste Management";1
+"289";"reqpap";"Suggested Reading – Paper/Packaging";1
+"290";"reqraf";"Suggested Reading   Agriculture/Forestry";1
+"291";"reqrch";"Suggested Reading – Chemicals";1
+"292";"reqrhc";"Suggested Reading   Healthcare";1
+"293";"reqrhc";"Suggested Reading – Healthcare";1
+"294";"reqrmm";"Suggested Reading   Metals/Mining";1
+"295";"reqrph";"Suggested Reading   Pharmaceuticals";1
+"296";"weconf";"World Economic Forum";1

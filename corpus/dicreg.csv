@@ -1,0 +1,236 @@
+"codreg";"defreg";"n"
+"1";"africaz";"Africa";617
+"2";"dvpcoz";"Developing Economies";519
+"3";"devgcoz";"Emerging Market Countries";327
+"4";"asiaz";"Asia";212
+"5";"souafrz";"Southern Africa";186
+"6";"eafrz";"East Africa";184
+"7";"bric";"BRICS Countries";165
+"8";"eurz";"Europe";155
+"9";"wafrz";"West Africa";132
+"10";"safr";"South Africa";129
+"11";"apacz";"Asia Pacific";113
+"12";"namz";"North America";109
+"13";"weurz";"Western Europe";94
+"14";"chinaz";"Greater China";93
+"15";"china";"China";92
+"16";"lamz";"Latin America";84
+"17";"nigea";"Nigeria";82
+"18";"eecz";"European Union Countries";80
+"19";"usa";"United States";79
+"20";"easiaz";"Eastern Asia";78
+"21";"kenya";"Kenya";73
+"22";"samz";"South America";65
+"23";"meastz";"Middle East";61
+"24";"medz";"Mediterranean";61
+"25";"india";"India";54
+"26";"zimbab";"Zimbabwe";42
+"27";"braz";"Brazil";41
+"28";"nafrz";"North Africa";37
+"29";"uganda";"Uganda";37
+"30";"uk";"United Kingdom";37
+"31";"wasiaz";"Western Asia";35
+"32";"cana";"Canada";34
+"33";"indsubz";"Indian Subcontinent";34
+"34";"sasiaz";"Southern Asia";34
+"35";"eeurz";"Central/Eastern Europe";33
+"36";"seasiaz";"Southeast Asia";33
+"37";"bric";"BRIC Countries";32
+"38";"ghana";"Ghana";30
+"39";"fra";"France";29
+"40";"tanza";"Tanzania";27
+"41";"egypt";"Egypt";26
+"42";"russ";"Russia";24
+"43";"easiaz";"East Asia";22
+"44";"sasiaz";"South Asia";22
+"45";"liber";"Liberia";21
+"46";"medz";"Mediterranean Countries";21
+"47";"mex";"Mexico";21
+"48";"ethpa";"Ethiopia";20
+"49";"wasiaz";"West Asia";19
+"50";"dach";"DACH Countries";18
+"51";"ukrn";"Ukraine";18
+"52";"ausnz";"Australia/Oceania";17
+"53";"austr";"Australia";17
+"54";"ussrz";"CIS Countries";16
+"55";"jap";"Japan";15
+"56";"balkz";"Balkan States";13
+"57";"bots";"Botswana";13
+"58";"israel";"Israel";13
+"59";"somal";"Somalia";13
+"60";"switz";"Switzerland";13
+"61";"arg";"Argentina";12
+"62";"italy";"Italy";12
+"63";"moroc";"Morocco";12
+"64";"nairoi";"Nairobi";12
+"65";"sudan";"Sudan";12
+"66";"indon";"Indonesia";11
+"67";"mali";"Mali";11
+"68";"nordz";"Nordic Countries";11
+"69";"use";"Northeast U.S.";11
+"70";"ven";"Venezuela";11
+"71";"ceafrz";"Central Africa";10
+"72";"iraq";"Iraq";10
+"73";"rwanda";"Rwanda";10
+"74";"usdc";"Washington DC";10
+"75";"caribz";"Caribbean Islands";9
+"76";"col";"Colombia";9
+"77";"delhi";"Delhi";9
+"78";"vista";"VISTA Countries";9
+"79";"alg";"Algeria";8
+"80";"angol";"Angola";8
+"81";"benluxz";"Benelux Countries";8
+"82";"gfr";"Germany";8
+"83";"gulfstz";"Persian Gulf Region";8
+"84";"scandz";"Scandinavia";8
+"85";"turk";"Turkey";8
+"86";"azerb";"Azerbaijan";7
+"87";"cuba";"Cuba";7
+"88";"malay";"Malaysia";7
+"89";"zaire";"Democratic Republic of the Congo";7
+"90";"baku";"Baku";6
+"91";"bol";"Bolivia";6
+"92";"camz";"Central America";6
+"93";"captw";"Cape Town";6
+"94";"gulfstz";"Persian Gulf Regions";6
+"95";"kuala";"Kuala Lumpur";6
+"96";"maurts";"Mauritius";6
+"97";"namib";"Namibia";6
+"98";"norw";"Norway";6
+"99";"scot";"Scotland";6
+"100";"yemar";"Yemen";6
+"101";"bueair";"Buenos Aires";5
+"102";"den";"Denmark";5
+"103";"durban";"Durban";5
+"104";"glasg";"Glasgow";5
+"105";"greece";"Greece";5
+"106";"gulfstz";"Persian Gulf Countries";5
+"107";"johan";"Johannesburg";5
+"108";"pretor";"Pretoria";5
+"109";"singp";"Singapore";5
+"110";"uae";"United Arab Emirates";5
+"111";"zambia";"Zambia";5
+"112";"chil";"Chile";4
+"113";"gurep";"Guinea";4
+"114";"havana";"Havana";4
+"115";"indochz";"Indo-China";4
+"116";"lux";"Luxembourg";4
+"117";"malaw";"Malawi";4
+"118";"qatar";"Qatar";4
+"119";"spain";"Spain";4
+"120";"thail";"Thailand";4
+"121";"vietn";"Vietnam";4
+"122";"belg";"Belgium";3
+"123";"ertra";"Eritrea";3
+"124";"gamb";"Gambia";3
+"125";"palest";"Palestine";3
+"126";"ruvol";"Volga Federal District";3
+"127";"seneg";"Senegal";3
+"128";"seych";"Seychelles";3
+"129";"taiwan";"Taiwan";3
+"130";"ttstan";"Republic of Tatarstan";3
+"131";"usny";"New York State";3
+"132";"uss";"Southern U.S.";3
+"133";"vcan";"Vatican City";3
+"134";"windho";"Windhoek";3
+"135";"abuja";"Abuja";2
+"136";"accra";"Accra";2
+"137";"bakok";"Bangkok";2
+"138";"comor";"Comoros";2
+"139";"daress";"Dar es Salaam";2
+"140";"dubai";"Dubai";2
+"141";"fujian";"Fujian";2
+"142";"genev";"Geneva";2
+"143";"harar";"Harare";2
+"144";"hkong";"Hong Kong";2
+"145";"icst";"Cote d'Ivoire";2
+"146";"ilefra";"Ile-de-France";2
+"147";"ire";"Ireland";2
+"148";"kampla";"Kampala";2
+"149";"lagos";"Lagos";2
+"150";"maurtn";"Mauritania";2
+"151";"mozam";"Mozambique";2
+"152";"nepal";"Nepal";2
+"153";"peru";"Peru";2
+"154";"phlns";"Philippines";2
+"155";"silen";"Sierra Leone";2
+"156";"swed";"Sweden";2
+"157";"usca";"California";2
+"158";"usw";"Western U.S.";2
+"159";"abidja";"Abidjan";1
+"160";"addis";"Addis Ababa";1
+"161";"aust";"Austria";1
+"162";"bali";"Bali";1
+"163";"barb";"Barbados";1
+"164";"beijin";"Beijing";1
+"165";"bndung";"Bandung";1
+"166";"bndung";"Bandung (Discontinued from 16th May 2017)";1
+"167";"brus";"Brussels";1
+"168";"burma";"Myanmar";1
+"169";"cabc";"British Columbia";1
+"170";"cairo";"Cairo";1
+"171";"camer";"Cameroon";1
+"172";"caras";"Caracas";1
+"173";"casiaz";"Central Asia";1
+"174";"chgdu";"Chengdu";1
+"175";"congo";"Congo";1
+"176";"crimea";"Crimea";1
+"177";"crtia";"Croatia";1
+"178";"curitb";"Curitiba";1
+"179";"dakar";"Dakar";1
+"180";"djcity";"Djibouti City";1
+"181";"doha";"Doha";1
+"182";"dublin";"Dublin";1
+"183";"fin";"Finland";1
+"184";"freetw";"Freetown";1
+"185";"fricaz";"Africa";1
+"186";"gabroe";"Gaborone";1
+"187";"gauten";"Gauteng";1
+"188";"gazas";"Gaza Strip";1
+"189";"hague";"The Hague";1
+"190";"hait";"Haiti";1
+"191";"iran";"Iran";1
+"192";"istan";"Istanbul";1
+"193";"jakar";"Jakarta";1
+"194";"karch";"Karachi";1
+"195";"kathma";"Kathmandu";1
+"196";"kigali";"Kigali";1
+"197";"kolk";"Kolkata";1
+"198";"lazio";"Lazio";1
+"199";"libya";"Libya";1
+"200";"lisbon";"Lisbon";1
+"201";"luanda";"Luanda";1
+"202";"luxci";"Luxembourg City";1
+"203";"mahara";"Maharashtra";1
+"204";"manil";"Manila";1
+"205";"mcdnia";"Macedonia";1
+"206";"monrva";"Monrovia";1
+"207";"ndelh";"New Delhi";1
+"208";"neth";"Netherlands";1
+"209";"niger";"Niger";1
+"210";"nswals";"New South Wales";1
+"211";"nusate";"Nusa Tenggara";1
+"212";"nyc";"New York City";1
+"213";"pakis";"Pakistan";1
+"214";"paris";"Paris";1
+"215";"paupr";"Port-au-Prince";1
+"216";"pol";"Poland";1
+"217";"porl";"Portugal";1
+"218";"rome";"Rome";1
+"219";"saarab";"Saudi Arabia";1
+"220";"sichu";"Sichuan";1
+"221";"swazd";"Eswatini";1
+"222";"syria";"Syria";1
+"223";"tai";"Djibouti";1
+"224";"taipei";"Taipei";1
+"225";"tuncty";"Tunis";1
+"226";"tunis";"Tunisia";1
+"227";"usma";"Massachusetts";1
+"228";"usnew";"New England";1
+"229";"usny";"New York";1
+"230";"vancv";"Vancouver";1
+"231";"wbeng";"West Bengal";1
+"232";"wescap";"Western Cape";1
+"233";"xinji";"Xinjiang";1
+"234";"yug";"Serbia";1
+"235";"zaire";"Democratic Republic of the Cong";1
