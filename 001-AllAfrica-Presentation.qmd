@@ -1,0 +1,138 @@
+---
+title: "Exploration of the media AllAfrica (en) - 2000-2024"
+format: 
+  html:
+    echo: false
+    embed-resources: true
+---
+
+```{r}
+library(dplyr, verbose = F, quietly = T,warn.conflicts = F)
+library(tidyr, verbose = F, quietly = T,warn.conflicts = F)
+library(ggplot2)
+```
+
+
+
+## Objective
+
+The aim of this note is to present the source *AllAfrica (english version)* available through Dow Jones Factiva. We do not present here in detail the origin of this media but describe only the content and the selection that has been made.
+
+## Number of news
+
+The source is available since 1998 but the initial number of news was rather small and we will consider only the period 2000-2024. The number of news collected during this quarter of century is rather impressive and represent 4.174 millions of items. The distribution is not perfectly regular as can be seen on the figure below.
+
+
+```{r fig1}
+tab1<-read.table("tab/tab2_allafrica_time_series.csv",
+                 heade=T,
+                 sep=";")
+p1<-ggplot(tab1) + aes(x=year, y=news/1000)+
+  geom_col() +
+  scale_x_continuous("Year") +
+  scale_y_continuous("thousands")+
+  ggtitle(label = "News published by AllAfrica (en) between 2000 and 2024", subtitle = "Source : AllAfrica english edition - Dow Jones Factiva")+
+  theme_light()
+
+p1
+
+ggsave(filename =  "fig/fig1_AllAfrica_news_per_year.pdf", plot=p1,width = 8, height=6)
+```
+
+The number of news increased firstly from a minimum of 17000 in 2000 to a maximum of 372000 in 2015. But it was followed by a brutal decline in 2016-2017 and a level comprised only between 50000 and 120 000 in the recent period. The source remains nevertheless very important in quantitative terms as compared to other media from subsaharan Africa. 
+
+
+## Focus on development
+
+Based on a selection of news published by African newspapers or analysis provided by think thanks or experts, the media is certainly more focused on 'hard news' (economical, political, social, ...) than classical newspapers that allocate more places to 'soft news' (sport, entertainment, tv program, ...). This specialization appears particularly visible when we analyzed the frequency of the word *'development'* in the news.
+
+```{r fig2}
+tab1<-read.table("tab/tab2_allafrica_time_series.csv",
+                 heade=T,
+                 sep=";") %>% 
+      mutate(devpt_pct = 100*DEVPT/news)
+p2<-ggplot(tab1) + aes(x=year, y=devpt_pct)+
+  geom_line() + geom_smooth(lwd=1, col="black",)+
+  scale_x_continuous("Year") +
+  scale_y_continuous("% of news")+
+  ggtitle(label = "Share of news containing the word 'development'", subtitle = "Source : AllAfrica english edition - Dow Jones Factiva")+
+  theme_light()
+
+p2
+
+ggsave(filename =  "fig/fig2_AllAfrica_news_about_development.pdf", plot=p1,width = 8, height=6)
+```
+
+The share of news where the word *'development'* is present was initially equal to a quarter in 2000 and is currently equalt to one third. The increase was important in 2000-2010. After a brief decline in 2011-2013, the movement of growth started again and appeared especially important after the covid-19 crisis of 2020. This proportion is exceptional as compared to other media and demnstrate clearly that the question of development is without any doubt at the top of the agenda of the english edition of *AllAfrica* during the whole period of observation. 
+
+## The arrival of "global south" and "global south" in 2001
+
+The first occurence of the term *'global south'* in the corpus of AllAfrica is found the **25th June 1999** in an item entitled "*Unesco Conference To Address Global Scientific Culture.*"  which is the reproduction of a news initially published by the day before by the daily newspaper *The Nation* in Nairobi (Kenya). The author of the paper, identified as David Adula from Cardiff use the term in this sentence : 
+
+
+> "*No doubt, the* ***industrialised countries of the North*** *have made their wealth through the effective utilisation of scientific knowledge while* ***the least  developed nations of the global South*** *continue to languish in poverty as they are fixated in the use of manual labour and outmoded skills of production.*" 
+
+No occurences of the term *global south* are found in 2000, but four will appear in 2001 on different topics and from different sources :
+
+>  '*Jubilee USA Network, formerly Jubilee 2000 USA, is the ongoing US wing of the international Jubilee movement to cancel* **the debt of the Global South**'
+(Source : Bill Fergusson,,  20th July 2001, "Retroactivity : it's Time to Cancel the Debt Now !",*AllAfrica* )
+
+>'*Human rights reports consistently document the Khartoum government's daily systematic bombing of hospitals and mass removal of people from oil-rich areas. Because of its endeavours to play a leadership role in* **Africa and the global South**, *South Africa has a responsibility to speak out against this scorched earth policy and take measures to pressure the Bashir regime back to the negotiating table.*' 
+(Source : David Monyae, 25th July 2001, "No to Sudan's Blood Oil", *The Sowetan*) 
+
+> '*"Civil society" groups in South Africa such as organized labor and non-governmental organizations believe that the WCAR must consider the systemic causes of racial inequality.Amongst these are the historical legacy of slavery and colonialism, corporate-led globalization on jobs and* **living standards in the global south**, *and the effect of domestic economic policies on the living standards of the Black majority*'. 
+(Source : Dennis Brutus and Ben Cashdan , 15th August 2001, "World Racism Meeting - Between a rock and a hard place. ", *HYPE Information Service*) 
+
+
+>'*Accordingly,* **the economies of the global South** *court economic disaster when they adopt and work with this outward-looking and public-sector-led market model of the globalisation process.*'
+(Source : Luke Adione-Ego, 1st November 2001, The Paradox of Anti-Globalisation.", *Daily Trust*) 
+
+It is not possible to evaluate the diffusion of the term '*global south*' without comparison with the reverse term of '*global north*' which start the diffusion a bit later bit was yet present in the first news of 1999 when David Adula spoke from the 'industrialized countries from the North'.  It is indeed also in 2001 that the first occurence of 'global North' can be found in association with 'global south' or alone. The case of association is the news previously mentionned :
+
+> "*And he then goes on to suggest that the globalisation process would become just, equal and democratic when a new G8 of the existing eight regional partnerships replaces the current group of* **the seven most wealthy nations of the global North** *with the straggling but nuclear-power-strong Russia in tow, as the consultative instance of last resort on the overall macro-economic management of the global economy .I could not agree more with Mr. Verhofstadt on the above*."
+(Source : Luke Adione-Ego, 1st November 2001, The Paradox of Anti-Globalisation.", *Daily Trust*)
+
+The case of mention alone is the following one.
+
+> '*We believe that the costs of debt cancellation should be borne by the creditor nations and the International Financial Institutions, and moreover,* **we believe that the global North owes Africa an historical debt for centuries of exploiting the continent's human and natural resources**. *Debt cancellation is a step that should be taken immediately, as partial downpayment on reparations.*'  
+(Source : Africa Action , 23th August 2001, "Position Paper on the World Conference Against Racism, Racial Discrimination, Xenophobia and Related ... ") 
+
+The movement is engaged and will increase with 6 news about global south and 3 news about global north  in 2002, 22 news about global south and one about global north in 2003, etc.  We can therefore evaluate the initial stage of diffusion of the term at the very beginning of the new millennium, precisely at that moment where China joined the WTO (2001) when the world was supposed to experiment the so-called "happy globalization" ...
+ 
+
+## The diffusion process of a new paradigm ?
+
+Fo a better appreciation of the diffusion process of the binome 'Global South/Global North' we have introduced to other binome describing the division of the world. 'Devloping countries/Developed countries'iswidely used during all the period and can be used as reference. 'Third World/Western countries' is decreasing over the period and can be considered - as we will try to demonstrate later - as the ancester of the precursor of the new terms. Other terms could have been considered as 'Industrial countries' or "The West' but we have prefered to limit our initial investigations to the six presented below.
+
+
+```{r fig3}
+tab1<-read.table("tab/tab2_allafrica_time_series.csv",
+                 header=T,
+                 sep=";") 
+tot <- tab1 %>% select(year, news) 
+tab<-tab1 %>% select(year,GN,GS,TW,WC,DPG,DPD) %>%
+    pivot_longer(cols = 2:7) %>% left_join(tot)%>%
+    mutate(value=10000*value/news)
+tab$term<-as.factor(tab$name)
+levels(tab$term)<-c("Developed countries","Developing countries",
+                    "Global North","Global South",
+                    "Third World","Western countries")
+
+p3<-ggplot(tab) + aes(x=year, y=value, col=term)+
+  geom_line() + 
+  scale_y_log10("Salience (p. 10 000 news)")+
+  scale_x_continuous("Year")+
+  ggtitle(label = "Evolution of development divisions of the world", subtitle = "Source : AllAfrica english edition - Dow Jones Factiva")+
+  theme_light()
+
+p3
+
+ggsave(filename =  "fig/fig3_AllAfrica_diffusion.pdf", plot=p1,width = 8, height=8)
+
+
+```
+
+
+
+
+

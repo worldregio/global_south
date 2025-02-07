@@ -6,7 +6,7 @@ library(janitor)
 
 
 # We assume that Factiva's .rtf file has been converted into .xlsx files with a column dindicating the document number
-x<-read_xlsx("corpus/Factiva-GS2.xlsx")
+x<-read_xlsx("corpus/all_Africa_en_GS2_raw.xlsx")
 
 # We create a function for the extraction of each tag
 extract_var <- function(fic = x, tag="LP"){
