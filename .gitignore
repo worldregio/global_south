@@ -43,7 +43,9 @@ vignettes/*.pdf
 docs/
 
 # translation temp files
-po/*~
+po/*
 
 # RStudio Connect folder
 rsconnect/
+
+
